@@ -1,4 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #FFEED5;
+    color: #454545;
+}
+
 .main {
     width: 80%;
     margin: 50px auto;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.link {
+    text-align: right;
 }
